@@ -1,1 +1,23 @@
 Rooms/SIEM_Investigation/notes.md
+# A Day In the Life of a Junior Security Analyst
+
+# Objective 
+Inspect  SIEM dashboard, copy the malicious IP from the critical alerts, and switch to the IP Hunter tab.
+
+#Steps
+Step-by-Step Instructions
+1
+SIEM Dashboard
+Inspect your SIEM dashboard, copy the malicious IP from the critical alerts, and switch to the IP Hunter tab.
+
+2
+IP Hunter
+Use the IP Hunter to analyze the suspicious IP address identified in the SIEM alerts.
+
+3
+Escalation
+Let's declare a small incident event and escalate it.
+
+4
+Firewall
+Block the malicious IP address on the firewall and find out the hidden flag.
